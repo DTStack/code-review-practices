@@ -36,7 +36,7 @@
 
 ### 代码评审流程
 
-![code review workflow](../graph/code-review.svg)
+![code review workflow](../../graph/code-review.svg)
 
 ### 代码评审者应该关注什么？
 
@@ -53,3 +53,9 @@
 
 - 优先选择熟悉该业务域，技术域的开发，事先定好人选
 - 其他人主动申请加入
+
+## 参见
+
+- **[评审者指南](reviewer/)**: 代码评审者的详细指南。
+- **[开发者指南](owner/)**: 提交变更评审的开发者的详细指南。
+- **[代码评审机制保障](mechanism/)**: 代码评审机制保障
