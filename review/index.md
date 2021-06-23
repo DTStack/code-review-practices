@@ -52,4 +52,4 @@
 ## 如何做代码评审？
 
 注意事项
-[如何做代码评审](review/codeReview/index.md)
+[如何做代码评审](codeReview/index.md)
