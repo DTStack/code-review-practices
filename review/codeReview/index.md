@@ -18,9 +18,9 @@
 
 ## 利用 Gitlab 做代码评审
 
-常见的一些 Review 工具
+常见的一些代码评审工具
 
-- Phabircator （Facebook)
+- Phabircator（Facebook)
 - Gerrit (Google)
 - Gitlab / Github
 - ...
@@ -59,10 +59,10 @@
 ### 开发者需遵循的工程规范
 
 - Git Workflow：[Git Workflow](https://dtstack.yuque.com/rd-center/sm6war/vzg2xd)
-- Git Commit:[Git Commit](https://dtstack.yuque.com/rd-center/sm6war/dnt36o)
+- Git Commit: [Git Commit](https://dtstack.yuque.com/rd-center/sm6war/dnt36o)
 - SemVer：[SemVer](https://dtstack.yuque.com/rd-center/sm6war/cmdl2z)
 - CSS编码规范(SASS/BEM)：[SASS/BEM](https://dtstack.yuque.com/rd-center/sm6war/clgpb7)
-- Code Style Guide@基建组和团队资深成员协同
+- Code Style Guide @基建组和团队资深成员协同
 
 ### 开发者需要知道的CI/CD流程
 
