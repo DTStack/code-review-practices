@@ -107,8 +107,7 @@
 
 - ESLint 代码静态检测, 解决基本的代码风格不统一的问题，避免一些低级 bug。当然 ESLint 最好集成到开发构建环节中去
 - GitLens 非常好的 git 可视化管理插件
-- Gitlab MR 协助快速创建**Merge Request**请求
-
+- Gitlab MR 协助快速创建**MR**请求
 
 ## 参见
 
