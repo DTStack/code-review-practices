@@ -36,8 +36,8 @@
 
 ## 路线图
 
-* [ ] [评审模版](https://github.com/DTStack/devops) @Devops
-* [ ] 本指南达成共识 @TeamLeader
-* [ ] 数栈代码风格指南落地和达成共识
-* [ ] 整理输出团队自身的Checklist @TeamLeader
+* [ ] [评审模版](https://github.com/DTStack/devops) @mumiao
+* [ ] 本指南达成共识 @TL
+* [ ] 数栈代码风格指南落地和达成共识@基建组
+* [ ] 整理输出团队自身的Checklist @TL
 * [ ] 辅助机器人
