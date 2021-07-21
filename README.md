@@ -2,7 +2,7 @@
 
 ## 代码评审指南介绍
 
-* [袋鼠云数栈前端团队代码评审指南](review/index.md), 包含4个子章节：
+* [代码评审指南指引](review/index.md), 包含4个子章节：
   * [代码评审指南](review/CodeReview/index.md)
   * [代码评审者指南](review/Reviewers/index.md)
   * [代码开发者指南](review/Developer/index.md)
@@ -12,10 +12,10 @@
 
 部分文档中会用到一些术语，特在此说明:
 
-* **MR**: "Merge Request"的缩写，代表正在进行代码评审的变更
+* **MR**: "Merge Request."的缩写，代表正在进行代码评审的变更
 * **LGTM**: "Looks Good to Me."的缩写，评审者批准**MR**时会这么说
 * **SGTM**: “Sounds Good To Me."的缩写，评审者批准**MR**时会这么说
-* **WIP**: “Work In Progress.”的缩写，如果你有个改动很大的 **MR**，可以在写了一部分的情况下先提交，但是在标题里写上 WIP，以告诉项目维护者这个功能还未完成，方便维护者提前 review 部分提交的代码。
+* **WIP**: “Work In Progress.”的缩写，如果你有个改动很大的 **MR**，可以在写了一部分的情况下先提交，但是在标题里写上 WIP，以告诉项目维护者这个功能还未完成，方便维护者提前 review 部分提交的代码
 
 ## 注意事项
 
@@ -44,9 +44,9 @@
 
 ## 路线图
 
-* [ ] 评审模版](<https://github.com/DTStack/devops>) @mumiao
-* [ ] 代码评审指南达成共识 @TL
-* [ ] 代码评审指南 2.0 宣讲&落地
-* [ ] 代码风格指南落地和达成共识@基建组
+* [ ] [评审模版](<https://github.com/DTStack/devops>) @mumiao
+* [ ] **代码评审指南2.0**达成共识 @TL
+* [ ] **代码评审指南2.0**宣讲&落地
+* [ ] 代码风格指南落地和达成共识@基建组@TL
 * [ ] 整理输出团队自身的Checklist @TL
 * [ ] 辅助机器人
