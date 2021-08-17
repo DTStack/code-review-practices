@@ -79,6 +79,18 @@
 - 指定项目核心开发者作为 Reviewer
 - 如有必要，Reviewer 可分配给多个相关人
 
+### New Merge Request
+
+![新增MR](../../graph/new_MR.gif)
+
+### review Merge Request
+
+![评审MR](../../graph/review_MR.gif)
+
+### Merge Request
+
+![合并MR](../../graph/merge_MR.gif)
+
 ### 开发者需遵循的工程规范
 
 - Git Workflow：[Git Workflow](https://dtstack.yuque.com/rd-center/sm6war/vzg2xd)
