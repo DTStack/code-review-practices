@@ -79,15 +79,17 @@
 - 指定项目核心开发者作为 Reviewer
 - 如有必要，Reviewer 可分配给多个相关人
 
-### New Merge Request
+### 你需要知道的Merge Request流程
+
+- New Merge Request
 
 ![新增MR](../../graph/new_MR.gif)
 
-### review Merge Request
+- review Merge Request
 
 ![评审MR](../../graph/review_MR.gif)
 
-### Merge Request
+- Merge Request
 
 ![合并MR](../../graph/merge_MR.gif)
 
