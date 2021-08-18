@@ -2,10 +2,10 @@
 
 项目的代码是托管在公司内网的 Gitlab 上的，于是开始摸索着基于 GitLab 中项目的**MR**进行他人代码评审，目前代码评审流程机制及使用体验上有一些不完善的地方
 
-- 平台无法设置CI不通过的情况下允许MR合并
+- 平台无法设置 CI 不通过的情况下允许 **MR**合并
 - 平台评论及反馈不友好，无法直观对比不同提交版本之间的差异及针对评论的修复情况
-- 平台问题管理及PR绑定没有Github平台强大
-- 平台发起1个MR，无法指定多人参与代码评审
+- 平台问题管理及**MR**绑定没有 Github 平台强大
+- 平台发起 1 个**MR**，无法指定多人参与代码评审
 
 ## 代码评审目标和原则
 
@@ -33,23 +33,22 @@
 - Phabircator（Facebook)
 - Gerrit (Google)
 - Gitlab / Github
-- ......
 
 ### 提交代码评审之前
 
 - 确保经过设计评审，架构和总体技术方案经过论证
 - **MR**描述清楚业务功能，附上原型，主要变更，问题链接
 - 充分自测或核心模块经过单元测试
-- 代码经过Gitlab CI的静态检查
+- 代码经过 Gitlab CI 的静态检查
 - 提交范围尽可能小和完整；不要一次性提交大量不相关的功能代码，把评审时间控制在20min以内
-- 按照Git Commit提交规范进行提交
+- 按照 Git Commit 提交规范进行提交
 - 不阻塞他人的工作，尽快响应他人的代码评审请求
 - 如果某个**MR**紧急，可以告知 Reviewers
 
 ### 一次完整的代码评审
 
 - 提交合并请求**MR**
-- 触发代码评审提醒和CI pipeline执行
+- 触发代码评审提醒和 CI pipeline 执行
 - 代码评审者执行评审过程，代码评审者可以提交评论，其他人也可以参与针对问题进行持续跟进，一个**MR**手动设置多人参与CR
 - 代码评审开发者收到评审意见，修改代码，回复评论，关闭问题
 - 代码评审者确认问题是否修复，允许合并
@@ -58,7 +57,7 @@
 
 ![代码评审流程图](../../graph/code-review.svg)
 
-### 代码评审者应该关注什么？
+### 代码评审者应该关注什么
 
 - **代码风格**: 代码风格是否遵循数栈代码风格指南?
 - **设计**：配置、接口类的设计问题（合理性、友好性)？错误、重复的 API 调用或者封装？
@@ -79,7 +78,7 @@
 - 指定项目核心开发者作为 Reviewer
 - 如有必要，Reviewer 可分配给多个相关人
 
-### 你需要知道的Merge Request流程
+### 你需要知道的**MR**流程
 
 - New Merge Request
 
@@ -98,7 +97,7 @@
 - Git Workflow：[Git Workflow](https://dtstack.yuque.com/rd-center/sm6war/vzg2xd)
 - Git Commit: [Git Commit](https://dtstack.yuque.com/rd-center/sm6war/dnt36o)
 - SemVer：[SemVer](https://dtstack.yuque.com/rd-center/sm6war/cmdl2z)
-- CSS编码规范(SASS/BEM)：[SASS/BEM](https://dtstack.yuque.com/rd-center/sm6war/clgpb7)
+- CSS 编码规范(SASS/BEM)：[SASS/BEM](https://dtstack.yuque.com/rd-center/sm6war/clgpb7)
 - BEM 使用帮助：[BEM 使用帮助](https://dtstack.yuque.com/rd-center/sm6war/wb76lx)
 - Code Style Guide @基建组和团队资深成员协同
 
