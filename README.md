@@ -44,8 +44,8 @@
 
 ## 路线图
 
-* [ ] [评审模版](<https://github.com/DTStack/devops>) @mumiao
-* [x] **代码评审指南 2.0**达成共识 @TL
+* [x] [评审模版](https://github.com/DTStack/devops/blob/main/.github/merge_request_template.md)
+* [x] **代码评审指南 2.0**达成共识
 * [ ] **代码评审指南 2.0**宣讲&落地
 * [ ] 代码风格指南落地和达成共识@基建组@TL
 * [ ] 整理输出团队自身的 Checklist @TL
