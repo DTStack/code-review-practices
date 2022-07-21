@@ -48,4 +48,5 @@
 * [x] **代码评审指南 2.0**达成共识
 * [x] **代码评审指南 2.0**宣讲&落地
 * [x] 整理输出团队自身的 Checklist
-* [ ] 代码风格指南落地和达成共识@基建组@TL
+* [x] [代码风格指南落地](https://github.com/DTStack/Code-Style-Guide)
+* [x] [输出ko-lint-config & eslint-plugin-dt-react package](https://github.com/DTStack/ko/tree/master/packages/ko-lint-config)
