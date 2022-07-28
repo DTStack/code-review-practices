@@ -99,7 +99,7 @@
 - SemVer：[SemVer](https://dtstack.yuque.com/rd-center/sm6war/cmdl2z)
 - CSS 编码规范(SASS/BEM)：[SASS/BEM](https://dtstack.yuque.com/rd-center/sm6war/clgpb7)
 - BEM 使用帮助：[BEM 使用帮助](https://dtstack.yuque.com/rd-center/sm6war/wb76lx)
-- Code Style Guide @基建组和团队资深成员协同
+- Code Style Guide(https://github.com/DTStack/Code-Style-Guide)
 
 ### 开发者需要知道的CI/CD流程
 
